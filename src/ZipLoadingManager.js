@@ -1,6 +1,7 @@
 /**
  * @author Takahiro / https://github.com/takahirox
  */
+import * as THREE from 'three';
 
 function ZipLoadingManager( onLoad, onProgress, onError ) {
 
